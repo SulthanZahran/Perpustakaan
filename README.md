@@ -17,6 +17,9 @@ Aplikasi ini adalah sistem manajemen perpustakaan yang memungkinkan pengguna unt
     - Melihat transaksi peminjaman berdasarkan ID, peminjam, atau buku.
     - Melihat transaksi aktif yang belum jatuh tempo.
     - Melihat transaksi yang melewati batas waktu peminjaman dan belum dikembalikan.
+
+## Asumsi
+- Pinjaman yang dikembalikan sebelum deadline akan dianggap selesai sehingga peminjam bisa meminjam lagi
     
 
 ## Dokumentasi API
